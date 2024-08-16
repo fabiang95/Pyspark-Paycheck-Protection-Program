@@ -9,6 +9,7 @@ Since the dataset contains close to a million rows and we have to consider appro
 
 # Dataset 
 The dataset name is public_150k_plus_230930.csv
+You may download it from this link: https://data.sba.gov/dataset/ppp-foia
 
 As the objective is for future predictions, it is important to consider columns that are available at at the point of borrowing. 
 
